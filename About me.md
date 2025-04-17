@@ -1,4 +1,4 @@
-Hi, I’m Erfan Sayad,\n
+Hi, I’m Erfan Sayad,
 Activities in the field of: Web programming, C# and .NET programmer
 
 <!---
